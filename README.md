@@ -5,7 +5,7 @@
 
 - 👯 Ищу работу **в интересных для меня поектах**
 
-- 📫 Мои контакты **Telegram: https://t.me/ishpnv**
+- 📫 Мои контакты <p>**Telegram: https://t.me/ishpnv**</p>
 
 - 📄 Моё резюме [https://hh.ru/applicant/resumes/view?resume=d4273b3dff0c952fe60039ed1f4c7365434364](https://hh.ru/applicant/resumes/view?resume=d4273b3dff0c952fe60039ed1f4c7365434364)
 
