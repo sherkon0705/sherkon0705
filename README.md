@@ -1,6 +1,14 @@
 <h1 align="center">Привет 👋, я Игорь</h1>
 <h3 align="center">Frontend разработчик из Москвы</h3>
 
+- 🌱 Планирую изучить **React Native, Vue/Angular**
+
+- 👯 Ищу работу **в интересных для меня поектах**
+
+- 📫 Мои контакты **Telegram: https://t.me/ishpnv**
+
+- 📄 Моё резюме [https://hh.ru/applicant/resumes/view?resume=d4273b3dff0c952fe60039ed1f4c7365434364](https://hh.ru/applicant/resumes/view?resume=d4273b3dff0c952fe60039ed1f4c7365434364)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
